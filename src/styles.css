@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  height: 100px;
+  width: 300px;
+  overflow: hidden;
+  position: relative;
+}
+
+.item {
+  height: 100px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  position: absolute;
+}
